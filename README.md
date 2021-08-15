@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="100px" src="https://www.iconspng.com/images/uber-new-logo-2018.jpg">
+    <img width="100px" src="https://github.com/dxnsav/native-uber-clone/blob/main/docs/uber-logo.jpg?raw=true">
   </a>
   <h1 align="center">Uber CLone - React Native</h1>  
 </p>
