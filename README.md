@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="100px" src="https://github.com/osamaq/spotify-lite/raw/master/docs/assets/icon.png">
+    <img width="100px" src="https://www.iconspng.com/images/uber-new-logo-2018.jpg">
   </a>
   <h1 align="center">Uber CLone - React Native</h1>  
 </p>
