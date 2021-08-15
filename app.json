@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "uber-clone",
+    "description": "uber-clone app",
     "slug": "uber-clone",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.dxnsav.uberclone",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
