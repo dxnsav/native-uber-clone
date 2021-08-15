@@ -11,5 +11,5 @@ Based on the [Uber app](https://apps.apple.com/ru/app/uber/id368677368).
 
 iOS
 
-<img width="100%" src="https://github.com/dxnsav/native-uber-clone/docs/screenshots/mockup-1.png">
-<img width="100%" src="https://github.com/dxnsav/native-uber-clone/docs/screenshots/mockup-2.png">
+<img width="100%" src="https://github.com/dxnsav/native-uber-clone/blob/main/docs/mockup-1.png?raw=true">
+<img width="100%" src="https://github.com/dxnsav/native-uber-clone/blob/main/docs/mockup-2.png?raw=true">
